@@ -1,0 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+ultralytics==8.4.14
+torch==2.10.0+cpu
+torchvision==0.25.0+cpu
+torchaudio==2.10.0+cpu
+opencv-python==4.13.0.92
